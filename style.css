@@ -5,6 +5,11 @@
 
 body {
   background: linear-gradient(to right, rgba(255, 255, 0, 0.593), pink);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  overflow: hidden;
 }
 
 .clock {
