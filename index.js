@@ -1,3 +1,7 @@
+// const indianTime = new Date().toLocaleTimeString("en-US", 
+//    {timeZone:'Asia/Kolkata',timestyle:'full',hourCycle:'h24'})
+//    console.log(indianTime)
+
 setInterval(setClock, 1000)
 
 const hourhand = document.querySelector('[data-hour-hand]')
