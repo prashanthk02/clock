@@ -87,3 +87,15 @@ body {
   height: 35%;
   background-color: black;
 }
+
+.city--select {
+  border: 1px solid white;
+  height: 30px;
+  width: 100px;
+}
+
+.city {
+  position: absolute;
+  z-index: 12;
+  top: 15%;
+}
